@@ -1,2 +1,3 @@
 # hello-world
 My first try on Github
+Hopefully this would be an enjoyable and satisfying trial...
